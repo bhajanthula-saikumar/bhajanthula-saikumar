@@ -4,7 +4,7 @@
 
 🚀 I specialize in developing interactive interfaces using ReactJS, JavaScript, HTML, CSS, and Bootstrap. I focus on creating clean UI, reusable components, and smooth user experiences.
 
-💼 Currently worked as a Frontend Developer at Skills Uprise where I contributed to multiple real-world projects including recruitment platforms, corporate websites, and web applications.
+💼 worked as a Frontend Developer at Skills Uprise where I contributed to multiple real-world projects including recruitment platforms, corporate websites, and web applications.
 
 🔨 Projects I worked on:
 • Jobify – Recruiter Web Portal  
